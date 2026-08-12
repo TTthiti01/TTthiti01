@@ -1,31 +1,38 @@
 <div align="center">
-  <h1>Hi there, I'm TTthiti01 👋</h1>
+  <h1>Hi there, I'm Thitipong Songkasin 👋</h1>
   <h3>A passionate developer</h3>
 </div>
 
 ---
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **New Technologies**
-- 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Anything**
+- 🔭 I’m currently working on **Nyeta (Visual Assistance Platform)** and **TripShare (Expense Calculator)**
+- 🌱 I’m currently learning **Next.js, WebRTC, and AI integrations (Gemini API, TensorFlow.js)**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **[Add your contact here]**
 
-## 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://fb.com/YOUR_FACEBOOK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
-
 ## 💻 Tech Stack
-<!-- You can change the icons by editing the list below. Check available icons at https://skillicons.dev -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,git,docker,aws,mysql,mongodb&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind,postgres,redis,git,vite&perline=12" alt="Tech Stack" />
   </a>
 </p>
+
+## 🚀 Featured Projects
+
+### 👁️ Nyeta - Visual Assistance Platform
+Collaborated on a platform for blind and visually impaired users combining AI visual assistance, object detection, document/currency recognition, and live volunteer video calls. Contributed to eyes-free UX patterns using spoken feedback, TTS, haptics, and screen-reader-friendly interactions.
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, WebRTC, Gemini API, TensorFlow.js, Pusher
+[GitHub Repo](https://github.com/7sadakonr/Nyeta)
+
+### 🚗 TripShare - Expense Calculator
+Built a web app to manage trip members, record expenses, calculate fuel cost, and settle balances between participants. Added expense visualization and automatic settlement logic for an intuitive user experience.
+**Tech Stack:** React, TypeScript, Vite
+[GitHub Repo](https://github.com/TTthiti01/trip-share)
+
+### 📝 TodoList Website (2025)
+Full-stack task management app with Pending / In Progress / Completed states, a dashboard, and authentication.
+**Tech Stack:** React, TypeScript, PostgreSQL
 
 ## 🏆 GitHub Trophies
 <p align="center">
