@@ -1,7 +1,17 @@
-# Hi there, I'm Thitipong Songkasin 👋
+# Hi there, I'm Thitipong Songkasin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer.;IT+Support+Specialist.;Computer+Science+Student." alt="Typing SVG" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=TTthiti01&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer.;IT+Support+Specialist.;Computer+Science+Student." alt="Typing SVG" />
+  </a>
 </div>
 
 ## 👨‍💻 About Me
@@ -12,6 +22,13 @@ I am a Computer Science student at RMUTSB and a passionate **Front-end Developer
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - ⚡ Passionate about modern Frontend development & IT Hardware Support
 - 📫 How to reach me: **job2547j@gmail.com** or **062-373-2491**
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TTthiti01&theme=tokyonight&margin-w=15&no-frame=true" alt="Thitipong's Trophies" />
+  </a>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -44,14 +61,25 @@ I am a Computer Science student at RMUTSB and a passionate **Front-end Developer
 
 ## 🚀 Featured Projects
 
-### 🌟 Nyeta & TripShare
-- **Nyeta:** A Visual Assistance Platform integrating AI and WebRTC.
-- **TripShare:** An intuitive Expense Calculator application for group trips.
+### 👁️ Nyeta (Visual Assistance Platform)
+A Visual Assistance Platform integrating advanced AI and WebRTC technologies.
+- **Tech:** Next.js, WebRTC, Gemini API, TensorFlow.js
+- **Features:** Real-time visual assistance and AI-driven analysis.
+
+### ✈️ TripShare (Expense Calculator)
+An intuitive Expense Calculator application designed to manage and split costs for group trips seamlessly.
+- **Tech:** React, Next.js, Tailwind CSS
+- **Features:** Group expense tracking, smart bill splitting, and responsive UI.
 
 ### 📝 TodoList Website
 A Full-Stack task management web application focusing on high stability, reliability, and ease of use. 
 - **Tech:** Next.js, React, TypeScript, SQLite, Node.js, Express
 - **Features:** Task state handling, custom JWT Authentication, and SweetAlert2 notifications.
+
+### 🔐 Full-Stack Login System (React-Node-SQLite)
+A secure full-stack authentication and user management system.
+- **Tech:** React, Node.js, Express, SQLite
+- **Features:** User registration, secure login validation, and robust session management.
 
 ### 🖥️ PC Parts Builder & Specs Analyzer
 A hardware specification assembler and IT Support database catalog application.
