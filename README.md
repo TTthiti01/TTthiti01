@@ -23,13 +23,6 @@ I am a Computer Science student at RMUTSB and a passionate **Front-end Developer
 - ⚡ Passionate about modern Frontend development & IT Hardware Support
 - 📫 How to reach me: **job2547j@gmail.com** or **062-373-2491**
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TTthiti01&theme=tokyonight&margin-w=15&no-frame=true" alt="Thitipong's Trophies" />
-  </a>
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -86,12 +79,12 @@ A hardware specification assembler and IT Support database catalog application.
 - **Tech:** HTML5, CSS3, JavaScript (ES6)
 - **Features:** Plan build paths, check component compatibility metrics, and document troubleshooting steps.
 
-## 📊 GitHub Stats
+## 🐍 GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TTthiti01&show_icons=true&theme=tokyonight&hide_border=true" alt="Thitipong's GitHub stats" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTthiti01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTthiti01/TTthiti01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTthiti01/TTthiti01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TTthiti01/TTthiti01/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
