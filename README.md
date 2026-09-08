@@ -34,19 +34,6 @@ Built a web app to manage trip members, record expenses, calculate fuel cost, an
 Full-stack task management app with Pending / In Progress / Completed states, a dashboard, and authentication.
 **Tech Stack:** React, TypeScript, PostgreSQL
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TTthiti01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TTthiti01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TTthiti01&theme=radical" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTthiti01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
