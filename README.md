@@ -20,7 +20,3 @@ I'm a Computer Science student at RMUTSB (Rajamangala University of Technology S
 * 🚗 **[Thiti Carwash](https://github.com/TTthiti01/thiticarwash)**: A responsive car wash booking system UI created using HTML5 and CSS3.
 * 👁️ **[Nyeta - Visual Assistance Platform](https://github.com/7sadakonr/Nyeta)**: A collaborative platform for blind/visually impaired users featuring AI visual assistance, object detection, and live volunteer video calls. Built with Next.js, WebRTC, Gemini API, and TensorFlow.js.
 * 🌐 **[Personal Portfolio](https://github.com/TTthiti01/-portfolio-Thiti)**: My interactive portfolio website showcasing my work, featuring dark/light themes, an EmailJS contact form, and smooth animations.
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=TTthiti01&show_icons=true&theme=radical" alt="TTthiti01's GitHub stats" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTthiti01&layout=compact&theme=radical" alt="Top Languages" height="150" />
