@@ -27,17 +27,23 @@ Currently looking for an entry-level opportunity! 🚀
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 💸 **[TripShare](https://github.com/TTthiti01/trip-share)** | Expense calculator for managing trip members, recording expenses, and calculating fuel costs. | `React`, `TypeScript`, `Vite` |
-| 👁️ **[Nyeta](https://github.com/7sadakonr/Nyeta)** | Collaborative visual assistance platform for the blind. Live video calls and AI object detection. | `Next.js`, `WebRTC`, `Gemini` |
-| 🚗 **[Thiti Carwash](https://github.com/TTthiti01/thiticarwash)** | Responsive booking system interface for a carwash service. | `HTML5`, `CSS3` |
-| 🌐 **[Portfolio](https://github.com/TTthiti01/-portfolio-Thiti)** | My personal interactive portfolio with dark/light themes and EmailJS integration. | `React`, `TypeScript` |
+* 💸 **[TripShare - Expense Calculator](https://github.com/TTthiti01/trip-share)**: A web application built with React & TypeScript to manage trip members, record expenses, calculate fuel costs, and settle balances.
+* 🚗 **[Thiti Carwash](https://github.com/TTthiti01/thiticarwash)**: A responsive car wash booking system UI created using HTML5 and CSS3.
+* 👁️ **[Nyeta - Visual Assistance Platform](https://github.com/7sadakonr/Nyeta)**: A collaborative platform for blind/visually impaired users featuring AI visual assistance, object detection, and live volunteer video calls. Built with Next.js, WebRTC, Gemini API, and TensorFlow.js.
+* 🌐 **[Personal Portfolio](https://github.com/TTthiti01/-portfolio-Thiti)**: My interactive portfolio website showcasing my work, featuring dark/light themes, an EmailJS contact form, and smooth animations.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TTthiti01&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTthiti01/TTthiti01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTthiti01/TTthiti01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TTthiti01/TTthiti01/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
