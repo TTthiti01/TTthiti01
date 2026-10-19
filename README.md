@@ -4,7 +4,7 @@
 
 <div align="center">
 I'm a Computer Science student at RMUTSB (Rajamangala University of Technology Suvarnabhumi). <br/>
-Passionate about <b>Frontend Development</b>, creating responsive UIs, and solving technical problems. <br/>
+Passionate about <b>Full-stack Development</b>, creating responsive UIs, and solving technical problems. <br/>
 Currently looking for an entry-level opportunity! 🚀
 </div>
 
